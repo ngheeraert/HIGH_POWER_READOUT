@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.py
+mpol_DCT/__init__.py
+mpol_DCT/dynamics.py
+mpol_DCT/functions.py
+mpol_DCT/params.py
+mpol_DCT/state.py
+mpol_DCT.egg-info/PKG-INFO
+mpol_DCT.egg-info/SOURCES.txt
+mpol_DCT.egg-info/dependency_links.txt
+mpol_DCT.egg-info/not-zip-safe
+mpol_DCT.egg-info/top_level.txt

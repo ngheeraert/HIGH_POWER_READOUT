@@ -1,0 +1,2 @@
+include README.rst
+include mpol2/qubit_input/*.txt

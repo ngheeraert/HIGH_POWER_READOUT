@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: mpol-DCT
+Version: 0.1
+Summary: This program simulates the qubit-cavity dynamics when the cavity is driven.
+Home-page: UNKNOWN
+Author: Nicolas Gheeraert
+Author-email: n.gheeraert@physics.iitm.ac.in
+License: UNKNOWN
+Platform: UNKNOWN
+
+MPOL2
+--------
+
+To import::
+
+    >>> import mpol2
+
+
+
